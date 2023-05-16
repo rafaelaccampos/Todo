@@ -1,0 +1,12 @@
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\bin\Debug\net6.0\Todo.Domain.deps.json
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\bin\Debug\net6.0\Todo.Domain.dll
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.AssemblyReference.cache
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\Todo.Domain.dll
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\refint\Todo.Domain.dll
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\Todo.Domain.pdb
+C:\Users\rafaela.cassiano\Documents\personal-projects\Todo.Domain\obj\Debug\net6.0\ref\Todo.Domain.dll
